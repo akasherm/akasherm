@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akasherm
-- 👀 I’m interested in coding; Dart, and C# mostly these days. Electronics. 3D printing, and making in general. Trains; 1:1, HO, and On30 mostly.
-- 🌱 I’m currently learning Flutter and Dart.
-- 💞️ I’m looking to possibly collaborate on some simple game projects. Probably in GML and Node.js
+- 👋 Hi, I’m Sherm.
+- 👀 I’m interested in coding; Dart, C#, and C++ mostly these days. I also play around with electronics, 3D printing, and making/creating in general. I'm big on trains; 1:1, 7.25", On30, some HO and N guage as well.
+- 🌱 I’m still learning Flutter and Dart. I know enough to do basic to medium sized apps, but there's still so much more for me to learn.
+- 💞️ I'm too old to consider any of this as a career change but it's a great way to spend my spare time.
